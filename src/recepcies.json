@@ -1,0 +1,108 @@
+{
+    "recepcies": [
+        {
+            "title": "Пельмени вареники", 
+            "description": "Ну тут всё просто. Делаем начинку, оборачиваем в тесто и в кипяток. По крайней мере принцип такой"
+        },
+        {
+            "title": "Национальная кухня", 
+            "description": "Какое то описание"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        },
+        {
+            "title": "title", 
+            "description": "description"
+        }
+    ]
+}

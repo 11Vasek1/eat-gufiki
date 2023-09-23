@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+
+%abstract-text {
+    font-family: "Neucha";
+}
+
+.title{
+    @extend %abstract-text;
+    font-size: 40px;
+    color: #101010;
+
+    text-align: center;
+}
+
+.text{
+    @extend %abstract-text;
+    font-size: 24px;
+    color: #484848;
+
+    text-align: center;
+}

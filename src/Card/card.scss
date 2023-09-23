@@ -1,0 +1,35 @@
+@import '../ui/colors.scss';
+
+.card{
+    border: 1px solid #484848;
+    border-radius: 8px;
+    padding: 8px;
+
+    transition: all 0.5s ease-in-out;
+
+    overflow: hidden;
+
+    background: white;
+
+    &__content{
+        position: absolute;
+    }
+
+    &:after{
+        content: '';
+        display: block;
+        padding-bottom: 100%;
+    }
+
+    &_active{
+        background-color: $active_white;
+    }
+
+    &_open {
+        position: absolute;
+        width: 100%;
+        z-index: 1;
+        box-sizing: border-box;
+        background: white;
+    }
+}
