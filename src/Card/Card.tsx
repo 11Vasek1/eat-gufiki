@@ -65,7 +65,7 @@ function Card({ title, description, callback, isActive }: cardProps) {
 				}}
 			>
 				<div className='card__content'>
-					<img src='/placeholder.png' className='card__image' />
+					<img src='./placeholder.png' className='card__image' />
 					<h3 className='card__title sm-title'>{title}</h3>
 				</div>
 			</div>
