@@ -73,7 +73,6 @@ function Canvas({ h, v, d}: canvasProps) {
     
             draw({ h, v, d}, c, width);
         }
-
 	});
 
 	return <canvas className='canvas' ref={canvasRef}></canvas>;

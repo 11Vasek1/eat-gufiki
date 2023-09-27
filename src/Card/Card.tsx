@@ -21,10 +21,6 @@ function Card({ title, description, callback, isActive }: cardProps) {
 		setIsOpen(true);
 	};
 
-	// const active = () => {
-	// 	console.log('setActive', index);
-	// };
-
 	if (isOpen) {
 		return (
 			<div className={`card card_open`}>
@@ -56,8 +52,9 @@ function Card({ title, description, callback, isActive }: cardProps) {
                     event.preventDefault();
                     callback(!isActive);
                 }}
-			>
+			>   
 				<div className='card__content'>
+                    <img src="/placeholder.png" className="card__image" />
 					<h3 className='card__title'>{title}</h3>
 				</div>
 			</div>

@@ -19,3 +19,11 @@
 
     text-align: center;
 }
+
+.sm-title{
+    @extend %abstract-text;
+    font-size: 16px;
+    color: #101010;
+
+    text-align: center;
+}
