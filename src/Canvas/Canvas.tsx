@@ -63,14 +63,17 @@ function Canvas({ h, v, d}: canvasProps) {
 	const canvasRef = useRef(null);
 
 	useEffect(() => {
-        const c:HTMLCanvasElement = canvasRef.current;
+        if( canvasRef.current !== null ){
+            const c:HTMLCanvasElement = canvasRef.current;
 
-        const width = c.clientWidth;
+            const width = c.clientWidth;
+    
+            c.width = width;
+            c.height = width;
+    
+            draw({ h, v, d}, c, width);
+        }
 
-        c.width = width;
-        c.height = width;
-
-		draw({ h, v, d}, c, width);
 	});
 
 	return <canvas className='canvas' ref={canvasRef}></canvas>;
