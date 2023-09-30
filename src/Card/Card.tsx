@@ -16,10 +16,10 @@ function Card({ title, description, callback, isActive }: cardProps) {
 		console.log('close');
 		setIsOpen(false);
 	};
-	const open = () => {
-		console.log('open');
-		setIsOpen(true);
-	};
+	// const open = () => {
+	// 	console.log('open');
+	// 	setIsOpen(true);
+	// };
 
 	if (isOpen) {
 		return (
