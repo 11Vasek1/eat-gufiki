@@ -18,6 +18,14 @@
     color: #484848;
 
     text-align: center;
+
+    @media screen and (max-width: 680px) {
+        font-size: 5vw;
+    }
+
+    @media screen and (max-width: 500px) {
+        font-size: 4.5vw;
+    }
 }
 
 .sm-title{
@@ -26,6 +34,14 @@
     color: #101010;
 
     text-align: center;
+
+    @media screen and (max-width: 680px) {
+        font-size: 2.5vw;
+    }
+
+    @media screen and (max-width: 500px) {
+        font-size: 2.2vw;
+    }
 }
 
 .button{

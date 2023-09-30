@@ -13,6 +13,14 @@
     background: white;
     position: relative;
 
+    &__title{
+        width: 105%;
+
+        @media screen and (max-width: 680px) {
+            width: 110%;
+        }
+    }
+
     &__content{
         position: absolute;
 
@@ -24,6 +32,10 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+
+        @media screen and (max-width: 680px) {
+            padding: 1vw;
+        }
     }
 
     &_open &__content{
@@ -69,6 +81,11 @@
     &__image{
         width: 64px;
         margin-bottom: 8px;
+
+        @media screen and (max-width: 680px) {
+            width: 9vw;
+            margin-bottom: 1vw;
+        }
     }
 
     &__close{

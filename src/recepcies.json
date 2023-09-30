@@ -1,107 +1,107 @@
 {
     "recepcies": [
         {
-            "title": "Пельмени вареники", 
+            "title": "Доширак с добавками", 
             "description": "Ну тут всё просто. Делаем начинку, оборачиваем в тесто и в кипяток. По крайней мере принцип такой"
         },
         {
-            "title": "Национальная кухня", 
+            "title": "Кухня вашего региона", 
             "description": "Какое то описание"
         },
         {
-            "title": "title", 
+            "title": "Домашний соус к любой еде", 
             "description": "description"
         },
         {
-            "title": "title", 
+            "title": "ОСТРОЕ", 
             "description": "description"
         },
         {
-            "title": "title", 
-            "description": "description"
-        },
-
-        {
-            "title": "title", 
-            "description": "description"
-        },
-        {
-            "title": "title", 
-            "description": "description"
-        },
-        {
-            "title": "title", 
-            "description": "description"
-        },
-        {
-            "title": "title", 
-            "description": "description"
-        },
-        {
-            "title": "title", 
+            "title": "Ленивый завтрак", 
             "description": "description"
         },
 
         {
-            "title": "title", 
+            "title": "Лекарство от похмелья", 
             "description": "description"
         },
         {
-            "title": "title", 
+            "title": "Закуски для фуршета", 
             "description": "description"
         },
         {
-            "title": "title", 
+            "title": "Маринуем 12+ часов", 
             "description": "description"
         },
         {
-            "title": "title", 
+            "title": "Ваша любимая еда", 
             "description": "description"
         },
         {
-            "title": "title", 
-            "description": "description"
-        },
-
-        {
-            "title": "title", 
-            "description": "description"
-        },
-        {
-            "title": "title", 
-            "description": "description"
-        },
-        {
-            "title": "title", 
-            "description": "description"
-        },
-        {
-            "title": "title", 
-            "description": "description"
-        },
-        {
-            "title": "title", 
+            "title": "Фастфуд но дома", 
             "description": "description"
         },
 
         {
-            "title": "title", 
+            "title": "Вегетерианское блюдо", 
             "description": "description"
         },
         {
-            "title": "title", 
+            "title": "Суп суп суп", 
             "description": "description"
         },
         {
-            "title": "title", 
+            "title": "Карбонара", 
             "description": "description"
         },
         {
-            "title": "title", 
+            "title": "Стейк", 
             "description": "description"
         },
         {
-            "title": "title", 
+            "title": "Фаршированная еда", 
+            "description": "description"
+        },
+
+        {
+            "title": "Давно собирались приготовить", 
+            "description": "description"
+        },
+        {
+            "title": "Поднебесное: блюдо за 100 р.", 
+            "description": "description"
+        },
+        {
+            "title": "Любимая национальная еда", 
+            "description": "description"
+        },
+        {
+            "title": "Выпечка", 
+            "description": "description"
+        },
+        {
+            "title": "Рыба и морепродукты", 
+            "description": "description"
+        },
+
+        {
+            "title": "Сырное безумие", 
+            "description": "description"
+        },
+        {
+            "title": "Блюдо из фильма, игры, аниме", 
+            "description": "description"
+        },
+        {
+            "title": "Десерт", 
+            "description": "description"
+        },
+        {
+            "title": "Мясо в тесте (пельмени итд)", 
+            "description": "description"
+        },
+        {
+            "title": "ПП по ЗОЖ", 
             "description": "description"
         }
     ]

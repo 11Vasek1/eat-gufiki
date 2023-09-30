@@ -58,11 +58,15 @@ function Card({ title, description, callback, isActive }: cardProps) {
 		return (
 			<div
 				className={`card ${isActive ? 'card_active' : ''}`}
-				onClick={open}
-				onContextMenu={(event: React.MouseEvent) => {
+				// onClick={open}
+				onClick={(event: React.MouseEvent) => {
 					event.preventDefault();
 					callback(!isActive);
 				}}
+				// onContextMenu={(event: React.MouseEvent) => {
+				// 	event.preventDefault();
+				// 	callback(!isActive);
+				// }}
 			>
 				<div className='card__content'>
 					<img src='./placeholder.png' className='card__image' />
