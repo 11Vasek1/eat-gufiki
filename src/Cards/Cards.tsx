@@ -55,7 +55,6 @@ function Cards() {
 	const cardList = json.recepcies.map((info, index) => (
 		<Card
 			title={info.title}
-			description={info.description}
 			key={index}
 			callback={createCallback(index)}
 			isActive={statuses[index]}
@@ -65,6 +64,13 @@ function Cards() {
 		<div className='cards'>
 			{cardList}
 			<Canvas h={hArr} v={vArr} d={dArr}/>
+      <div className="tiers">
+        <div className="tier">s</div>
+        <div className="tier">a</div>
+        <div className="tier">b</div>
+        <div className="tier">c</div>
+        <div className="tier">d</div>
+      </div>
 		</div>
 	);
 }

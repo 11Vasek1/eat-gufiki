@@ -1,14 +1,41 @@
 .cards{
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
 
-    gap: 8px;
+  gap: 8px;
 
-    margin: auto;
-    width: 652px;
-    position: relative;
+  margin: auto;
+  width: 652px;
+  position: relative;
 
-    @media screen and (max-width: 680px) {
-        width: 100%;
-    }
+  @media screen and (max-width: 800px) {
+    width: 90%;
+    margin-right: 0px;
+  }
+}
+
+.tiers{
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  transform: translateX(-50px);
+
+  @media screen and (max-width: 680px) {
+    transform: translateX(-7vw)
+  }
+}
+
+.tier{
+  font-family: "Neucha";
+  font-size: 48px;
+
+
+  @media screen and (max-width: 680px) {
+    // padding: 1vw;
+  font-size: 8vw;
+  }
 }

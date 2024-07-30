@@ -1,108 +1,29 @@
 {
-    "recepcies": [
-        {
-            "title": "Доширак с добавками", 
-            "description": "Ну тут всё просто. Делаем начинку, оборачиваем в тесто и в кипяток. По крайней мере принцип такой"
-        },
-        {
-            "title": "Кухня вашего региона", 
-            "description": "Какое то описание"
-        },
-        {
-            "title": "Домашний соус к любой еде", 
-            "description": "description"
-        },
-        {
-            "title": "ОСТРОЕ", 
-            "description": "description"
-        },
-        {
-            "title": "Ленивый завтрак", 
-            "description": "description"
-        },
-
-        {
-            "title": "Лекарство от похмелья", 
-            "description": "description"
-        },
-        {
-            "title": "Закуски для фуршета", 
-            "description": "description"
-        },
-        {
-            "title": "Маринуем 12+ часов", 
-            "description": "description"
-        },
-        {
-            "title": "Ваша любимая еда", 
-            "description": "description"
-        },
-        {
-            "title": "Фастфуд но дома", 
-            "description": "description"
-        },
-
-        {
-            "title": "Вегетерианское блюдо", 
-            "description": "description"
-        },
-        {
-            "title": "Суп суп суп", 
-            "description": "description"
-        },
-        {
-            "title": "Карбонара", 
-            "description": "description"
-        },
-        {
-            "title": "Стейк", 
-            "description": "description"
-        },
-        {
-            "title": "Фаршированная еда", 
-            "description": "description"
-        },
-
-        {
-            "title": "Давно собирались приготовить", 
-            "description": "description"
-        },
-        {
-            "title": "Поднебесное: блюдо за 100 р.", 
-            "description": "description"
-        },
-        {
-            "title": "Любимая национальная еда", 
-            "description": "description"
-        },
-        {
-            "title": "Выпечка", 
-            "description": "description"
-        },
-        {
-            "title": "Рыба и морепродукты", 
-            "description": "description"
-        },
-
-        {
-            "title": "Сырное безумие", 
-            "description": "description"
-        },
-        {
-            "title": "Блюдо из фильма, игры, аниме", 
-            "description": "description"
-        },
-        {
-            "title": "Десерт", 
-            "description": "description"
-        },
-        {
-            "title": "Мясо в тесте (пельмени итд)", 
-            "description": "description"
-        },
-        {
-            "title": "ПП по ЗОЖ", 
-            "description": "description"
-        }
-    ]
+  "recepcies": [
+    {"title": "7 дней домашней еды"},
+    {"title": "самое сложное что можете"},
+    {"title": "накормить гостя"},
+    {"title": "шашлык"},
+    {"title": "повторить блюдо из доставки"},
+    {"title": "пельмени/вареники"},
+    {"title": "национальная кухня"},
+    {"title": "вкусное вегетарианское"},
+    {"title": "выпечка"},
+    {"title": "плов"},
+    {"title": "быстрый ужин"},
+    {"title": "сезонное блюдо "},
+    {"title": "%%%%%%%"},
+    {"title": "ЗОЖ/ПП"},
+    {"title": "домашняя пицца"},
+    {"title": "суточный маринад"},
+    {"title": "домашний фастфуд"},
+    {"title": "всратый рецепт"},
+    {"title": "суп"},
+    {"title": "любимое блюдо"},
+    {"title": "заточить ножи"},
+    {"title": "рабочий завтрак"},
+    {"title": "ЯЙЦА"},
+    {"title": "сходить в магазин "},
+    {"title": "бутики помидор + сыр"}
+  ]
 }

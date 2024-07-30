@@ -36,6 +36,12 @@
         @media screen and (max-width: 680px) {
             padding: 1vw;
         }
+
+        @media screen and (max-width: 800px) {
+            justify-content: center;
+        }
+
+        
     }
 
     &_open &__content{
@@ -85,6 +91,10 @@
         @media screen and (max-width: 680px) {
             width: 9vw;
             margin-bottom: 1vw;
+        }
+
+        @media screen and (max-width: 800px) {
+          display: none;
         }
     }
 
