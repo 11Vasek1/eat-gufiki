@@ -1,4 +1,4 @@
-import { useState } from 'react';
+// import { useState } from 'react';
 import './card.scss';
 
 type cardProps = {
@@ -9,12 +9,12 @@ type cardProps = {
 };
 
 function Card({ title, callback, isActive }: cardProps) {
-	const [isOpen, setIsOpen] = useState(false);
+	// const [isOpen, setIsOpen] = useState(false);
 
-	const close = () => {
-		console.log('close');
-		setIsOpen(false);
-	};
+	// const close = () => {
+	// 	console.log('close');
+	// 	setIsOpen(false);
+	// };
 	// const open = () => {
 	// 	console.log('open');
 	// 	setIsOpen(true);
