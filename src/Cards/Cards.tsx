@@ -65,11 +65,11 @@ function Cards() {
 			{cardList}
 			<Canvas h={hArr} v={vArr} d={dArr}/>
       <div className="tiers">
-        <div className="tier">s</div>
-        <div className="tier">a</div>
-        <div className="tier">b</div>
-        <div className="tier">c</div>
-        <div className="tier">d</div>
+        <div className="tier" style={{backgroundColor: "#ff4747"}}>s</div>
+        <div className="tier" style={{backgroundColor: "rgb(255 126 71)"}}>a</div>
+        <div className="tier" style={{backgroundColor: "rgb(255 188 71)"}}>b</div>
+        <div className="tier" style={{backgroundColor: "rgb(254 255 71)"}}>c</div>
+        <div className="tier" style={{backgroundColor: "rgb(100 255 71)"}}>d</div>
       </div>
 		</div>
 	);
